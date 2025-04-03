@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 const long long MOD = 998244353;
 
 long long powerCal(long long base, long long exp, long long mod) {
